@@ -117,7 +117,7 @@ nav {
   font-size: clamp(6rem, 14vw, 14rem);
   font-weight: 700; letter-spacing: -0.05em;
   color: rgba(61,90,241,0.07);
-  white-space: nowrap; user-select: none;
+  white-space: nowrap; -webkit-user-select: none;
   pointer-events: none; line-height: 1;
 }
 
@@ -426,6 +426,11 @@ section { padding: 88px 5vw; }
   line-height: 1.6;
   margin-bottom: 0.8rem;
 }
+.project-desc2{
+font-size: 0.78rem;
+color: var(--muted);
+margin-top: -0.2rem;
+}
 .project-link {
   display: inline-flex;
   align-items: center;
@@ -545,3 +550,5 @@ footer p { color: rgba(255,255,255,0.25); font-size: 0.76rem; }
   body { cursor: auto; }
   .cursor-halo, .cursor-dot { display: none; }
 }
+
+
