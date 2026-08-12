@@ -4,18 +4,18 @@ My personal portfolio website as a Frontend Developer, built with pure HTML, CSS
 
 ---
 
-# 📸 Project Preview
+## 📸 Project Preview
 
 ![Homepage Screenshot](screenshots/homepage.png)
 
  ---
 
-# 📖 About the Project
+## 📖 About the Project
 This is a single-page personal portfolio website (no framework) featuring Hero, About, Skills, Experience, Projects, Education, and Contact sections. The focus was on a distinctive visual design (custom cursor, typing animation, scroll reveal) built with clean code and zero external dependencies.
 
 ---
 
-# ✨ Features
+## ✨ Features
 ✅ Fully responsive design (mobile, tablet, desktop)  
 ✅ Custom cursor with a halo/glow effect  
 ✅ Typing animation in the Hero section  
@@ -28,9 +28,9 @@ This is a single-page personal portfolio website (no framework) featuring Hero, 
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-| Layer    | Technology |  
+|  Layer    | Technology |  
 |--------|--------|
 |Structure|HTML5|  
 |Styling|CSS3|
@@ -40,7 +40,7 @@ This is a single-page personal portfolio website (no framework) featuring Hero, 
 
 ---
 
-# 📂 Project Structure 
+## 📂 Project Structure 
 ```
 portfolio/  
 |
@@ -52,7 +52,7 @@ portfolio/
 ```
 ---
 
-# 🚀 Installation
+## 🚀 Installation
 
 Clone the repository
 ```
@@ -65,7 +65,7 @@ cd portfolio
 ```
 --- 
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 **Melika Kamel**   
 
 GitHub: https://github.com/melikakamel  
