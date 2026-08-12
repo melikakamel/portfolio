@@ -1,5 +1,6 @@
 # 💻 Portfolio
-My personal portfolio website as a Frontend Developer, built with pure HTML, CSS, and JavaScript (no frameworks). A single-page site with custom animations, designed to showcase my skills, experience, and projects.
+My personal portfolio website as a Frontend Developer, built with pure HTML, CSS, and JavaScript (no frameworks).   
+A single-page site with custom animations, designed to showcase my skills, experience, and projects.  
 **🔗 Live Demo:** [melikakamel.ir](https://melikakamel.ir/)
 
 ---
