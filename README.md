@@ -6,6 +6,7 @@ My personal portfolio website as a Frontend Developer, built with pure HTML, CSS
 
 ## 📸 Project Preview
 
+### 🏠 Home
 ![Homepage Screenshot](screenshots/homepage.png)
 
  ---
